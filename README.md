@@ -13,3 +13,8 @@
 ## 5. Privilege Escalation
 ## 6. Flags
 ## 7. Lessons Learned
+## 8. Mitigation Recommendations (to prevent this issue)
+- 
+- 
+- 
+- 
