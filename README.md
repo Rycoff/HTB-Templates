@@ -5,6 +5,7 @@
 - Difficulty: 
 - OS: 
 - Status: Retired
+- Access: 
 
 ## 1. Initial Enumeration
 ## 2. Service Enumeration
@@ -18,3 +19,4 @@
 - 
 - 
 - 
+## 9. Key Takeaways
